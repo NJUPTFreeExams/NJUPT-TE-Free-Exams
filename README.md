@@ -47,18 +47,22 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ### 通工专业课类
 
-1. [通信原理](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/管理学原理?1556441423555) ✅ @大三上 (Last updated: 2018-05-22)
-2. [信息论](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/微观经济学?1556441329356) ✅ @大三上 (Last updated: 2018-05-22)
-3. [电磁场](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams/tree/master/宏观经济学) ✅ @大三上 (Last updated: 2018-05-22)
-4. [交换技术]() ✅ @大三上 (Last updated: 2018-05-22)
-5. [数字信号处理]() ✅ @大三上 (Last updated: 2018-05-22)
-6. [嵌入式]() ✅ @大三上 (Last updated: 2018-05-22)
-7. [通信电子线路]() ✅ @大三上 (Last updated: 2018-05-22)
+1. [通信原理](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/通信原理) ✅ @大三上 (Last updated: 2018-05-22)
+2. [信息论](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/信息论) ✅ @大三上 (Last updated: 2018-05-22)
+3. [电磁场](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/电磁场?1558493225187) ✅ @大三上 (Last updated: 2018-05-22)
+4. [交换技术](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/交换技术?1558493247935) ✅ @大三上 (Last updated: 2018-05-22)
+5. [数字信号处理](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/数字信号处理?1558493265163) ✅ @大三上 (Last updated: 2018-05-22)
+6. [嵌入式](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/嵌入式?1558493288559) ✅ @大三上 (Last updated: 2018-05-22)
+7. [通信电子线路](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/通信电子线路?1558493308353) ✅ @大三上 (Last updated: 2018-05-22)
 
 ### 其他
 
-1. [通信企业管理]() ✅ @大三上 (Last updated: 2018-05-22)
+1. [通信企业管理](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams/tree/master/通信企业管理?1558493333104) ✅ @大三上 (Last updated: 2018-05-22)
 
 ## 贡献者名单
 
 - 食人花一号
+
+### Tips
+
+部分资料是 `goodnotes` 笔记，是贡献者平时在 `iPad` 上整理的，故电脑解压可能看不了，希望理解~
